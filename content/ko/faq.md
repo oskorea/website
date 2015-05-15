@@ -1,12 +1,12 @@
 # FAQ
 
-## io.js란?
+## io.js가 무엇인가요?
 
-[io.js](https://github.com/iojs/io.js)는 [Chrome의 V8 런타임](http://code.google.com/p/v8/) 위에서 만들어진 JavaScript 플랫폼이다. [Joyent의 Node.js™](https://nodejs.org/)의 포크로 시작해, [npm](https://www.npmjs.com/) 환경과 호환하고 있다.
+[io.js](https://github.com/iojs/io.js)는 [Chrome의 V8 런타임](http://code.google.com/p/v8/)에서 돌아가는 JavaScript 플랫폼입니다. [Joyent의 Node.js™](https://nodejs.org/)의 포크로 시작했고, [npm](https://www.npmjs.com/) 환경과 호환됩니다.
 
-## 왜?
+## 어째서요?
 
-io.js는 보다 빠르고 예측 가능한 릴리스 주기를 목표로 하고 있다. 현재 최신 V8의 언어사양, API, 성능 향상을 통합하고 libuv를 포함한 기반 라이브러리의 업데이트도 하고 있다.
+io.js는 보다 빠르고 예측 가능한 릴리스 주기를 목표로 하고 있습니다. 현재 최신 V8의 언어사양, API, 성능 향상을 통합하고 libuv를 포함한 기반 라이브러리의 업데이트도 하고 있다.
 
 이 프로젝트의 목표는 io.js를 기업 주도가 아닌 "[오픈 거버넌스 모델](https://github.com/iojs/io.js/blob/v1.x/GOVERNANCE.md#readme)"로 개발해 나아가는 것이다.
 
